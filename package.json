@@ -11,5 +11,8 @@
     "url": "hello-bot"
   },
   "author": "beata",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
 }
