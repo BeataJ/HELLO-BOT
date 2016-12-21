@@ -21,5 +21,5 @@ server.post('/api/messages', connector.listen());
 
 // Define root dialog
 bot.dialog('/', function(session){
-  session.send('Hallo World');
+  session.send('Hello World');
 })
